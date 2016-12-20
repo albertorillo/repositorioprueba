@@ -7,11 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Prueba</title>
     </head>
     <body>
         <?php
         phpinfo();
         ?>
+        version 2.0
+        version 3.0
     </body>
 </html>
