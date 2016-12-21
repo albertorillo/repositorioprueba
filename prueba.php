@@ -7,10 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Prueba 2</title>
+        <title>Prueba1</title>
     </head>
     <body>
-
+        Prueba1
     </body>
     <script></script>
 </html>
