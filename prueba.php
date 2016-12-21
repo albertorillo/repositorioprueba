@@ -6,10 +6,10 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>Prueba1</title>
+        <title>Prueba2</title>
     </head>
     <body>
-        Prueba1
+        Prueba2
     </body>
     <script></script>
 </html>
