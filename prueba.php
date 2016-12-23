@@ -6,10 +6,10 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>2</title>
+        <title>23/12/2016</title>
     </head>
     <body>
-        2
+        23/12/2016
     </body>
     <script></script>
 </html>
